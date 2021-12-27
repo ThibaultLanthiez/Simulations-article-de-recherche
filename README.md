@@ -1,6 +1,6 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
-# Reproduire les simulations d'un article de recherche
+# Reproduire les modèles d'un article de recherche
 
 L'objectif de ce projet est de reproduire les simulations d'un [article de recherche](https://github.com/ThibaultLanthiez/Simulations-article-de-recherche/blob/main/Papier%20de%20recherche.pdf) proposé par le professeur.
 
