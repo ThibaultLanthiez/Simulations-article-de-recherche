@@ -2,7 +2,7 @@
 
 # Reproduire les simulations d'un article de recherche
 
-L'objectif de ce projet est de reproduire les simulations d'un article de recherche proposé par le professeur.
+L'objectif de ce projet est de reproduire les simulations d'un [article de recherche](https://github.com/ThibaultLanthiez/Simulations-article-de-recherche/blob/main/Papier%20de%20recherche.pdf) proposé par le professeur.
 
 Les simulations ont été faites sur 7 jeux de données issus du site [UCI](https://archive.ics.uci.edu/ml/index.php). 
 
